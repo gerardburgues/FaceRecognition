@@ -10,7 +10,7 @@ MyDB = ms.connect(
     host="localhost",
     database="images",
     user="admin",
-    password="burguesllavall19993",
+    password="password",
 )
 my = MyDB.cursor()
 
